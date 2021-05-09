@@ -1,5 +1,5 @@
 # Simple-search-engine-with-Hadoop
-This is a  project of Distributed Computing course in SJTU. It consists of four parts:
+This is a  project of Big Data course in UC Riverside. It consists of four parts:
 >Crawler
 
 >Word breaker
